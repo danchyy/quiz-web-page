@@ -1,0 +1,38 @@
+{
+    "name": "NBA Basketball Quiz",
+    "questions": [
+        {
+            "options": [
+                "LeBron James",
+                "Michael Jordan",
+                "Kareem Abdul-Jabbar",
+                "Wilt Chamberlain"
+            ],
+            "correct": "LeBron James",
+            "question": "Who is the greatest basketball player in the history?",
+            "image": null
+        },
+        {
+            "options": [
+                "LeBron James",
+                "Michael Jordan",
+                "Kareem Abdul-Jabbar",
+                "Wilt Chamberlain"
+            ],
+            "correct": "Kareem Abdul-Jabbar",
+            "question": "Who scored the most points in the history?",
+            "image": null
+        },
+        {
+            "options": [
+                "Dallas Mavericks",
+                "Miami Heat",
+                "Boston Celtics",
+                "Los Angeles Lakers"
+            ],
+            "correct": "Dallas Mavericks",
+            "question": "Who won the NBA championship in 2010-11 season?",
+            "image": null
+        }
+    ]
+}
